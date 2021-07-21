@@ -1,1 +1,1 @@
-ample test file in another branch
+ample test file in master branch
