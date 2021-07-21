@@ -1,1 +1,1 @@
-ample test file in a1testbranch branch
+Sample test file in a1testbranch branch
